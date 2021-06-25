@@ -2,6 +2,8 @@
 
 Recriação do jogo pacman utilizando HTML5, CSS3 e vanilla JavaScript.
 
+![Screenshot do projeto](./images/pacman.png)
+
 ## Próximas Features
 1. Sistema de perseguição de fantasmas otimizado
 2. Acréscimo de sprites para que a aparência final seja mais fiel à do jogo original
