@@ -1,16 +1,11 @@
-# Pacman
-
-Recriação do jogo pacman utilizando HTML5, CSS3 e vanilla JavaScript.
+# Pacman Clone
 
 ![Screenshot do projeto](./images/projeto.png)
 
-## Instruções:
+This project is a simple recreation of the pacman game. Here I used HTML5, CSS3 and vanilla JavaScript.
 
-1. Clone o repositório.
-2. Abra o arquivo index.html no seu navegador de preferência.
-3. Divirta-se!
-
-
-OBS: Caso deseje criar seu próprio labirinto, há um arquivo excel para criação do mesmo. Basta copiar os números e substitui-los no valor da constante layout do arquivo index.js
+For playing you just need to open the index.html file on your favorite web browser.
 
 ![Screenshot do criador de labirintos](./images/labirinto.png)
+
+If you wish to make and play in a custom maze, you just need to edit the excel file, copy the numbers and paste them inside the index.js file
