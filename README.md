@@ -10,4 +10,4 @@ For playing you just need to open the index.html file on your favorite web brows
 
 ![Screenshot do criador de labirintos](./images/labirinto.png)
 
-If you wish to make and play in a custom maze, you just need to edit the excel file, copy the numbers and paste them inside the index.js file
+If you wish to make and play in a custom maze, you just need to edit the xlsx file, copy the numbers and paste them inside the index.js file
