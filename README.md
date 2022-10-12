@@ -1,4 +1,4 @@
-# Pacman Clone
+# Pacman Game
 
 ![Screenshot do projeto](./images/projeto.png)
 
