@@ -4,7 +4,7 @@
 
 This is a simple remake of the classic arcade game from the 80s made using HTML5, CSS3, and JavaScript.
 
-To play, simply open the index.html file in your favorite browser and use the arrow keys to move the character. Collect all the dots and avoid the ghosts to score points and advance to the next level.
+To play, simply open the index.html file in your favorite browser and use the arrow keys to move the character. Collect all the dots and avoid the ghosts to score points.
 
 ## Custom maze
 
